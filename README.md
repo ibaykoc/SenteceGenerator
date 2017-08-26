@@ -1,1 +1,1 @@
-# SenteceGenerator
+# WordReceiver
